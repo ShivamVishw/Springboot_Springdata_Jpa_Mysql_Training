@@ -1,7 +1,7 @@
 # Springboot_Springdata_Jpa_Mysql_Training
 Spring Boot REST API with Hibernate (JPA) + MySQL
 
-<strong>SpringToolSuit console</strong>
+<strong>IntelliJ IDEA console</strong>
 <img width="2032" height="1162" alt="Screenshot 2026-02-15 at 11 57 34 PM" src="https://github.com/user-attachments/assets/891df3a6-05cd-4ade-b1b3-286e29def5cd" />
 <strong>Postman:</strong>
 
@@ -20,3 +20,6 @@ Spring Boot REST API with Hibernate (JPA) + MySQL
 
 <strong>DELETE -- Delete Student By Id</strong>
 <img width="1392" height="912" alt="Screenshot 2026-02-16 at 12 06 06 AM" src="https://github.com/user-attachments/assets/876f8b71-eeff-4e91-b073-ab1e98c72457" />
+
+<strong>Project Hierarchy</strong>
+<img width="2032" height="1085" alt="Screenshot 2026-02-16 at 12 13 01 AM" src="https://github.com/user-attachments/assets/00693672-687e-4562-9a91-d4e5ac0d5ebf" />
